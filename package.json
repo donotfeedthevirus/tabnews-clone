@@ -9,5 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "packageManager": "pnpm@10.18.2"
+  "packageManager": "pnpm@10.18.2",
+  "dependencies": {
+    "next": "15.5.5",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  }
 }
